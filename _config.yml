@@ -1,2 +1,3 @@
 name: Jingyuan Zhou
 markdown: kramdown
+permalink: /blog/:title
